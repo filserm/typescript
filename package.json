@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/filserm/typescript/issues"
   },
-  "homepage": "https://github.com/filserm/typescript#readme"
+  "homepage": "https://github.com/filserm/typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
